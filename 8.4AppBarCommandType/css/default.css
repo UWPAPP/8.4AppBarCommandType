@@ -1,0 +1,14 @@
+﻿
+/* Add your CSS here */
+body {
+	background-color: rgb(112,112,112);
+}
+
+.status {
+	margin-top:60px;
+	color: black;
+}
+
+#search {
+	margin-top: 6px;
+}
